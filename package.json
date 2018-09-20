@@ -1,0 +1,22 @@
+{
+  "name": "ggenerator-fom",
+  "version": "1.0.0",
+  "description": "fom utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceunlonely/ggenerator-fom.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aceunlonely/ggenerator-fom/issues"
+  },
+  "homepage": "https://github.com/aceunlonely/ggenerator-fom#readme",
+  "dependencies": {
+    "ggenerator-utils": "^1.0.0"
+  }
+}
