@@ -1,6 +1,6 @@
 {
   "name": "ggenerator-fom",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "fom utils",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/aceunlonely/ggenerator-fom#readme",
   "dependencies": {
-    "ggenerator-utils": "^1.0.0"
+    "debug": "^4.1.1"
   }
 }
